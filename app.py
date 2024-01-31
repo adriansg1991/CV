@@ -23,7 +23,7 @@ SOCIAL_MEDIA = {
     "LinkedIn": "https://www.linkedin.com/in/adri%C3%A1n-s%C3%A1nchez-garc%C3%ADa-822676114/",
     "GitHub": "https://github.com/adriansg1991",
     "Medium": "https://medium.com/@adriansg1991",
-    "Streamlit": "adriansanchez.streamlit.app",
+    "Portfolio Python": "https://adriansanchez.streamlit.app/",
 }
 
 
@@ -70,15 +70,21 @@ st.subheader("Experiencia laboral")
 st.write("---")
 
 # --- JOB 1
-st.write("💼", "**Finance & Accounting | Data Analyst**")
+st.write("💼", "**Finance & Accounting**")
 st.write('🏢​ Corus, 📍 Sant Cugat del Vallés')
 st.write("03/2021 - 09/2023")
 st.write(
     """
-- ► Contabilidad Holding España: Contabilidad (todo el ciclo contable) | Impuestos | Cuentas anuales
-- ► Finanzas: Informes económicos | Presupuestos
-- ► Key User SAP
-- ► Data analyst : Python | Pandas | Numpy | Selenium | Tkinter| Power BI
+- ► Contabilidad: Contabilidad Holding España (todo el ciclo contable) | Impuestos | Cuentas anuales | Certificados digitales | Reporting
+- ► Finanzas: Informes económicos | Informes stock & WIP | Presupuestos
+- ► Automatización de procesos/Data analyst : Python | Pandas | Numpy | Selenium | Tkinter| Power BI:
+    * Automatización de informes.
+    * Carga masiva de datos en el CRM mediante script.
+    * Programa carga masiva de facturas a SAP.
+- ► Key User SAP.
+- ► Integración nuevos programas IT (OCR, gestión de gastos, gestión de viajes).
+- ► Auditoria IT (dpto. finanzas).
+
 """
 )
 
@@ -89,9 +95,9 @@ st.write('🏢​ UAB Idiomes Barcelona, 📍Barcelona')
 st.write("2017 - 2020")
 st.write(
     """
-- ► Encargado de la facturación de las diferentes actividades del centro
+- ► Encargado de la facturación de las diferentes actividades del centro.
 - ► Reporting: Realización de informes económicos, estadísticas, previsiones, etc.
-- ► Diseño y seguimiento del presupuesto de la empresa
+- ► Diseño y seguimiento del presupuesto de la empresa.
 - ► Control de cartera de clientes.
 - ► Tareas administrativas.
 """
@@ -104,17 +110,17 @@ st.write('🏢​ Fundació UAB, 📍Barcelona')
 st.write("11/2016 - 06/2017")
 st.write(
     """
-- ► Contabilización de facturas de proveedores.
+- ► Contabilización de facturas de proveedores/clientes.
+- ► Contabilización de pagos/cobros.
 - ► Control de conciliaciones bancarias y gestión de banca electrónica.
 - ► Identificación y contabilización de cobros de visa, efectivo, transferencias de código de barras y códigos de barras y cobros a cuenta.
-- ► Contabilización de pagos/cobros.
 - ► Contabilización de gastos de gestión corriente (caja, tickets...).
 - ► Control de cartera de clientes y proveedores.
 - ► Emisión de facturas.
 - ► Resolución de consultas y aportación de soluciones en informes de Excel.
 - ► Reporting.
-- ► Colaboración en la elaboración y revisión de impuestos 347, IVA y IRPF
-- ► Colaboración en la revisión de Cuentas Anuales. 
+- ► Elaboración de impuestos 347, IVA y IRPF.
+- ► Colaboración en la revisión de Cuentas Anuales.
 - ► Elaboración de informes de cierre y presupuestos en Excel a partir de la contabilidad en SAP.
 
 """
@@ -133,7 +139,7 @@ st.write(
 # --- JOB 5
 st.write('\n')
 st.write("💼", "**Contable administrativo**")
-st.write('🏢​ Accesorios y Recambios Los Juanes, SA, 📍Barcelona')
+st.write('🏢​ Accesorios y Recambios Los Juanes, SA, 📍Terrassa')
 st.write("06/2015 - 01/2016")
 st.write(
     """
@@ -185,25 +191,38 @@ st.subheader("Hard Skills")
 st.write('---')
 st.write(
     """
-- 👩‍💻 Programming: Python (Pandas, numpy, selenium, matplotlib, seaborn), 
-- 📊 Data Visualization: PowerBi, MS Excel, Tableau
-- 🗄️ Databases: MySQL,Postgres
+- 👩‍💻 Programming: Python (Pandas, numpy, selenium, matplotlib, seaborn).
+- 📊 Data Visualization: PowerBi, MS Excel.
+- 🗄️ Databases: MySQL,Postgres.
 """
 )
 
-url = 'https://www.linkedin.com/in/adrián-sánchez-garcía-822676114/'
-st.link_button("Go to gallery", url)
+#url = 'https://www.linkedin.com/in/adrián-sánchez-garcía-822676114/'
+#st.link_button("Go to gallery", url)
 
-PROJECTS = {
-    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
-}
+
+# --- SKILLS ---
+st.write('\n')
+st.subheader("Idiomas")
+st.write('---')
+st.write(
+    """
+- Castellano: Lengua materna
+- Catalán: Lengua materna
+- Inglés: Nivel intermedio
+"""
+)
+
+#PROJECTS = {
+#    "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
+#    "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
+#    "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
+#    "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
+#}
 
 # --- Projects & Accomplishments ---
-st.write('\n')
-st.subheader("Projects & Accomplishments")
-st.write("---")
-for project, link in PROJECTS.items():
-    st.write(f"[{project}]({link})")
+#st.write('\n')
+#st.subheader("Projects & Accomplishments")
+#st.write("---")
+#for project, link in PROJECTS.items():
+#    st.write(f"[{project}]({link})")
