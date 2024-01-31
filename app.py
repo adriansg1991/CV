@@ -16,7 +16,7 @@ PAGE_TITLE = "Digital CV | Adrián Sánchez"
 PAGE_ICON = ":wave:"
 NAME = "Adrián Sánchez"
 DESCRIPTION = """
-Contabilidad🔢 | Finanzas📝 | Analista de datos 📊 | Python 🐍 | Excel📉 | Power BI📊| Excel📉 | SQL🐬|
+Contabilidad🔢 | Finanzas📝 | Analista de datos 📊 | Python 🐍 | Excel📉 | Power BI📊 | SQL🐬|
 """
 EMAIL = "adriansg1991@gmail.com"
 SOCIAL_MEDIA = {
