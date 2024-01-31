@@ -75,7 +75,7 @@ st.write('🏢​ Corus, 📍 Sant Cugat del Vallés')
 st.write("03/2021 - 09/2023")
 st.write(
     """
-- ► Contabilidad: Contabilidad Holding España (todo el ciclo contable) | Impuestos | Cuentas anuales | Certificados digitales | Reporting
+- ► Contabilidad: Contabilidad Holding España (Ciclo contable completo) | Impuestos | Cuentas anuales | Certificados digitales | Reporting
 - ► Finanzas: Informes económicos | Informes stock & WIP | Presupuestos
 - ► Automatización de procesos/Data analyst : Python | Pandas | Numpy | Selenium | Tkinter| Power BI:
     * Automatización de informes.
