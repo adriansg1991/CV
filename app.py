@@ -72,7 +72,7 @@ st.write("---")
 # --- JOB 1
 st.write("💼", "**Finance & Accounting**")
 st.write('🏢​ Corus, 📍 Sant Cugat del Vallés')
-st.write("03/2021 - 09/2023")
+st.write("03/2021 - Actualmente")
 st.write(
     """
 - ► Contabilidad: Contabilidad Holding España (Ciclo contable completo) | Impuestos | Cuentas anuales | Certificados digitales | Reporting
