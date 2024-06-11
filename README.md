@@ -14,19 +14,14 @@
 
 📄 **[Documentación oficial de Streamlit](https://docs.streamlit.io/)**
 
+## 🤔 ¿Por qué un CV con Streamlit?
 
+He decidido crear mi CV con Streamlit por varias razones:
 
-## 🌟 Características del CV
-
-- **Perfil personal:** Información sobre mi experiencia profesional y académica.
-- **Proyectos destacados:** Descripción de los proyectos más relevantes en los que he trabajado.
-- **Habilidades:** Lista de habilidades técnicas y herramientas con las que estoy familiarizado.
-- **Educación:** Detalles de mi formación académica.
-- **Contacto:** Información para poder ponerse en contacto conmigo.
-
-## 🎨 Capturas de pantalla
-
-¡Próximamente!
+- **Aprendizaje:** Quería aprender a usar Streamlit y explorar sus capacidades para crear aplicaciones web interactivas.
+- **Interactividad:** Un CV interactivo permite a los usuarios explorar mi experiencia y habilidades de manera dinámica.
+- **Visualización:** Streamlit ofrece herramientas poderosas para visualizar datos, lo que me permite mostrar mis proyectos y logros de una manera atractiva.
+- **Innovación:** Un CV en formato de aplicación web es una forma moderna e innovadora de presentarse, destacando mis habilidades técnicas.
 
 ## 📫 Contacto
 
