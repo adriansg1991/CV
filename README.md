@@ -26,7 +26,7 @@ He decidido crear mi CV con Streamlit por varias razones:
 Puedes ver mi CV [aquí](https://adriansanchez-digitalcv.streamlit.app/).
 ## 📫 Contacto
 
-Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o a través de [Linkedin](https://www.linkedin.com/in/adriansanchez-garcia/)
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com) o a través de [Linkedin](https://www.linkedin.com/in/adriansanchez-garcia/).
 
 ---
 
