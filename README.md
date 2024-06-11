@@ -1,3 +1,7 @@
+[![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-0.83.0-red.svg)](https://streamlit.io/)
+
+
 # 🚀 Mi CV con Streamlit
 
 ¡Bienvenido a mi Curriculum Vitae interactivo creado con [Streamlit](https://streamlit.io/)! 🌟
