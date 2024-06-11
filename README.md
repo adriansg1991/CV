@@ -23,7 +23,7 @@ He decidido crear mi CV con Streamlit por varias razones:
 - **Visualización:** Streamlit ofrece herramientas poderosas para visualizar datos, lo que me permite mostrar mis proyectos y logros de una manera atractiva.
 - **Innovación:** Un CV en formato de aplicación web es una forma moderna e innovadora de presentarse, destacando mis habilidades técnicas.
 
-Puedes ver mi CV en vivo [aquí](https://adriansanchez-digitalcv.streamlit.app/).
+Puedes ver mi CV [aquí](https://adriansanchez-digitalcv.streamlit.app/).
 ## 📫 Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme a través de [mi correo electrónico](mailto:adriansg1991@gmail.com).
